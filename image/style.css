@@ -3,4 +3,11 @@ body{
 }
 h1{
     font-size: 50px;
+    color: red;
+}
+.name{
+    color: rgb(228, 20, 20);
+}
+section{
+    display: flex;
 }
